@@ -1,0 +1,19 @@
+{
+  "name": "zipper",
+  "version": "1.0.0",
+  "description": "Node.js application to zip/compress files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitesh1409/zipper.git"
+  },
+  "author": "Mitesh Prajapati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitesh1409/zipper/issues"
+  },
+  "homepage": "https://github.com/mitesh1409/zipper#readme"
+}
